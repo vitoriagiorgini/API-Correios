@@ -109,7 +109,5 @@ Certifique-se de ter o **Node.js** instalado em sua máquina. Se não tiver, voc
   ```
 
 
-Isso irá subir seu código para o GitHub, e você poderá compartilhar o repositório com outras pessoas ou utilizá-lo para manter o controle de versão do seu projeto.
 
-## Fim da Documentação
 
